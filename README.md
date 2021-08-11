@@ -1,0 +1,2 @@
+# cryptochunkz
+OpenSea MetaData Setup
